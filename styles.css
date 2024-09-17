@@ -45,7 +45,7 @@ html {
 /* Hero Image */
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/Users/weinbergershane/Documents/Engineering/Scripting/Assignment 1/western-university-background.jpg");
+    url("western-university-background.jpg");
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
